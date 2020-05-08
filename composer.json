@@ -251,6 +251,7 @@
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
     "wpackagist-plugin/wp-fastest-cache": "*",
+    "wpackagist-plugin/wp-pagenavi": "*",
     "wpackagist-plugin/wp-super-cache": "*"
   },
   "require-dev": {
