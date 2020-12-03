@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "43680f1f548a002b50ac6e9b45e230a9",
+    "content-hash": "84d712401329b99e886ae6f2f3784eea",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -305,10 +305,10 @@
         },
         {
             "name": "koodimonni-plugin-language/mw-wp-form-ja",
-            "version": "4.3.2",
+            "version": "4.4.0",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/mw-wp-form/4.3.2/ja.zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/mw-wp-form/4.4.0/ja.zip",
                 "reference": "master"
             },
             "type": "wordpress-language"
